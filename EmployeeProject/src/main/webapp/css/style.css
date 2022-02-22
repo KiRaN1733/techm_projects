@@ -1,0 +1,19 @@
+body {
+	margin-top:20px;
+	background-color:#DBD5D9;
+}
+.home{
+	background-color: #E5E8E8;
+	padding:20px 80px;
+}
+h1 {
+ 	color: blue;
+}
+p {
+	font-family: courier;
+	font-size: 160%;
+}
+
+td{
+	padding:4px 10px 4px 3px;
+}
